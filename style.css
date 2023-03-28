@@ -54,7 +54,7 @@ span{
 p{
     display: inline;
 }
-*/
+
 body{
     margin: 0;
 }
@@ -69,6 +69,20 @@ body{
 .bar{
     background: linear-gradient(red, yellow);
     padding: 0;
+    width: 350px;
+    display: inline-block;
+}
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.foo{
+    background:linear-gradient(blue, pink);
+    padding: 50px;
+    margin: 50px;
+    border: 50px solid blue;
     width: 350px;
     display: inline-block;
 }
