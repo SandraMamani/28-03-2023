@@ -1,0 +1,38 @@
+/*html{
+    font-weight: 200;
+}
+
+body{
+    margin: auto;
+}
+
+div{
+    background-color: blue;
+    color:aliceblue;
+    width: 20;
+    height: 20;
+
+}
+
+.padre{
+    width: 600px;
+    height: 300px;
+    background-color: orange;
+}
+
+.hijo{
+    width: 50%;
+    height: 25%;
+    background-color: green;
+}
+*/
+.padre{
+    background-color: orange;
+    color:white;
+    padding: 50px;
+    border: 5px solid green;
+    width: 350px;
+    height: 350px;
+    margin-left: 0;
+    margin-right: 0;
+}
