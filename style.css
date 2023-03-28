@@ -24,10 +24,11 @@ div{
     width: 50%;
     height: 25%;
     background-color: green;
+    https://m3.material.io/
 }
 */
 .padre{
-    background-color: orange;
+    background: rgb(255, 51, 0);
     color:white;
     padding: 50px;
     border: 5px solid green;
